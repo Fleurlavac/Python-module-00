@@ -11,4 +11,3 @@ def ft_plant_age():
     else :
         print("Plant needs more time to grow")
 
-ft_plant_age()
